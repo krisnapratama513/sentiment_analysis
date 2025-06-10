@@ -35,7 +35,7 @@ def scrape_reviews(driver, max_pages):
     while page_count < max_pages:
         st.info(f"Scraping halaman ke-{page_count + 1}")
 
-        # Klik tombol Load More sampai habis
+        # Klik tombol Load More
         try:
             load_more_button = wait.until(
                 EC.element_to_be_clickable((By.CSS_SELECTOR, "button[class^='css-89c2tx']"))
@@ -45,7 +45,6 @@ def scrape_reviews(driver, max_pages):
         except:
             pass  #  tangani error dengan cara "tidak melakukan apa-apa"
 
-        # kode disini masih di eksekusikan? jika try : error?
 
         # Ambil HTML review setelah load more selesai
         try:
