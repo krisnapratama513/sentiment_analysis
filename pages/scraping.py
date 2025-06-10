@@ -11,8 +11,9 @@ import os
 import pandas as pd
 
 def get_driver():
-    current_dir = os.path.dirname(os.path.abspath(__file__))
-    chromedriver_path = os.path.join(current_dir, "chromedriver")
+    current_dir = os.path.dirname(os.path.abspath(__file__)) # folder pages
+    root_repo_path = os.path.dirname(current_dir)  # naik satu folder ke root_repo
+    chromedriver_path = os.path.join(root_repo_path, "pages", "chromedriver")   # Path absolut ke chromedriver di pages/
     service = Service(executable_path=chromedriver_path)
 
     options = Options()
