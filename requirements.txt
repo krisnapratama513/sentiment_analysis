@@ -1,0 +1,16 @@
+streamlit
+pandas
+selenium
+webdriver-manager
+beautifulsoup4
+torch
+transformers
+tensorflow
+numpy
+tqdm
+spacy
+scikit-learn
+matplotlib
+seaborn
+plotly
+wordcloud
