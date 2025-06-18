@@ -1,0 +1,10 @@
+"Chromium Shortcut" = "Chromium-flýtilykill";
+CFBundleGetInfoString = "Chromium 137.0.7151.103, Höfundarréttur 2025 höfundar Chromium. Allur réttur áskilinn.";
+NSBluetoothAlwaysUsageDescription = "Þegar Chromium hefur aðgang munu vefsvæði geta beðið þig um aðgang.";
+NSBluetoothPeripheralUsageDescription = "Þegar Chromium hefur aðgang munu vefsvæði geta beðið þig um aðgang.";
+NSCameraUsageDescription = "Þegar Chromium hefur aðgang munu vefsvæði geta beðið þig um aðgang.";
+NSHumanReadableCopyright = "Höfundarréttur 2025 höfundar Chromium. Allur réttur áskilinn.";
+NSLocalNetworkUsageDescription = "Þetta gerir þér kleift að velja á milli tiltækra tækja og efnis á skjá þeirra.";
+NSLocationUsageDescription = "Þegar Chromium hefur aðgang munu vefsvæði geta beðið þig um aðgang.";
+NSMicrophoneUsageDescription = "Þegar Chromium hefur aðgang munu vefsvæði geta beðið þig um aðgang.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Þegar Chromium hefur aðgang munu vefsvæði geta beðið þig um aðgang.";

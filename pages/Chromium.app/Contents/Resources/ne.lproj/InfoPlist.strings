@@ -1,0 +1,10 @@
+"Chromium Shortcut" = "Chromium को सर्टकट";
+CFBundleGetInfoString = "Chromium 137.0.7151.103, Copyright 2025 क्रोमियम लेखक। सबै अधिकार सुरक्षित।";
+NSBluetoothAlwaysUsageDescription = "Chromium ले पहुँच प्राप्त गरेपछि, वेबसाइटहरू तपाईंसँग पहुँच माग्न सक्ने छन्।";
+NSBluetoothPeripheralUsageDescription = "Chromium ले पहुँच प्राप्त गरेपछि, वेबसाइटहरू तपाईंसँग पहुँच माग्न सक्ने छन्।";
+NSCameraUsageDescription = "Chromium ले पहुँच प्राप्त गरेपछि, वेबसाइटहरू तपाईंसँग पहुँच माग्न सक्ने छन्।";
+NSHumanReadableCopyright = "Copyright 2025 क्रोमियम लेखक। सबै अधिकार सुरक्षित।";
+NSLocalNetworkUsageDescription = "तपाईंले यो अनुमति दिनुभयो भने तपाईं उपलब्ध डिभाइसहरूमध्येबाट कुनै डिभाइस चयन गर्न र उक्त डिभाइसमा सामग्री देखाउन सक्नु हुने छ।";
+NSLocationUsageDescription = "Chromium ले पहुँच प्राप्त गरेपछि, वेबसाइटहरू तपाईंसँग पहुँच माग्न सक्ने छन्।";
+NSMicrophoneUsageDescription = "Chromium ले पहुँच प्राप्त गरेपछि, वेबसाइटहरू तपाईंसँग पहुँच माग्न सक्ने छन्।";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Chromium ले पहुँच प्राप्त गरेपछि, वेबसाइटहरू तपाईंसँग पहुँच माग्न सक्ने छन्।";

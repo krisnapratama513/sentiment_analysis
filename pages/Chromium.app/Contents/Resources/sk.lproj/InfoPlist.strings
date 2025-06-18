@@ -1,0 +1,10 @@
+"Chromium Shortcut" = "Odkaz na Chromium";
+CFBundleGetInfoString = "Chromium 137.0.7151.103, Copyright 2025 Autori Chromium. Všetky práva vyhradené.";
+NSBluetoothAlwaysUsageDescription = "Keď Chromium získa prístup, weby vás budú môcť žiadať o prístup.";
+NSBluetoothPeripheralUsageDescription = "Keď Chromium získa prístup, weby vás budú môcť žiadať o prístup.";
+NSCameraUsageDescription = "Keď Chromium získa prístup, weby vás budú môcť žiadať o prístup.";
+NSHumanReadableCopyright = "Copyright 2025 Autori Chromium. Všetky práva vyhradené.";
+NSLocalNetworkUsageDescription = "Budete si môcť vybrať z dostupných zariadení a zobraziť v nich obsah.";
+NSLocationUsageDescription = "Keď Chromium získa prístup, weby vás budú môcť žiadať o prístup.";
+NSMicrophoneUsageDescription = "Keď Chromium získa prístup, weby vás budú môcť žiadať o prístup.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Keď Chromium získa prístup, weby vás budú môcť žiadať o prístup.";

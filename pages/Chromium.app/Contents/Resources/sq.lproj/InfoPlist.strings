@@ -1,0 +1,10 @@
+"Chromium Shortcut" = "Shkurtorja e Chromium";
+CFBundleGetInfoString = "Chromium 137.0.7151.103, Të drejtat e autorit 2025 Autorët e Chromium. Të gjitha të drejtat të rezervuara.";
+NSBluetoothAlwaysUsageDescription = "Pasi Chromium të ketë qasje, uebsajtet do të jenë në gjendje të kërkojnë prej teje qasje.";
+NSBluetoothPeripheralUsageDescription = "Pasi Chromium të ketë qasje, uebsajtet do të jenë në gjendje të kërkojnë prej teje qasje.";
+NSCameraUsageDescription = "Pasi Chromium të ketë qasje, uebsajtet do të jenë në gjendje të kërkojnë prej teje qasje.";
+NSHumanReadableCopyright = "Të drejtat e autorit 2025 Autorët e Chromium. Të gjitha të drejtat të rezervuara.";
+NSLocalNetworkUsageDescription = "Kjo do të të lejojë që të zgjedhësh nga pajisjet e disponueshme dhe të shfaqësh përmbajtjet në to.";
+NSLocationUsageDescription = "Pasi Chromium të ketë qasje, uebsajtet do të jenë në gjendje të kërkojnë prej teje qasje.";
+NSMicrophoneUsageDescription = "Pasi Chromium të ketë qasje, uebsajtet do të jenë në gjendje të kërkojnë prej teje qasje.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Pasi Chromium të ketë qasje, uebsajtet do të jenë në gjendje të kërkojnë prej teje qasje.";

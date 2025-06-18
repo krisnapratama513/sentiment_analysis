@@ -1,0 +1,10 @@
+"Chromium Shortcut" = "Chromium-н товчлол";
+CFBundleGetInfoString = "Chromium 137.0.7151.103, Chromium-ийн зохиогчийн эрх 2025. Бүх эрхийг хуулиар хамгаалсан.";
+NSBluetoothAlwaysUsageDescription = "Chromium-д хандалт олгосны дараа веб сайтууд таны хандалтыг асуух боломжтой болно.";
+NSBluetoothPeripheralUsageDescription = "Chromium-д хандалт олгосны дараа веб сайтууд таны хандалтыг асуух боломжтой болно.";
+NSCameraUsageDescription = "Chromium-д хандалт олгосны дараа веб сайтууд таны хандалтыг асуух боломжтой болно.";
+NSHumanReadableCopyright = "Chromium-ийн зохиогчийн эрх 2025. Бүх эрхийг хуулиар хамгаалсан.";
+NSLocalNetworkUsageDescription = "Энэ нь танд боломжтой төхөөрөмжүүд сонгож, тэдгээр төхөөрөмжид контент үзүүлэх боломжийг олгоно.";
+NSLocationUsageDescription = "Chromium-д хандалт олгосны дараа веб сайтууд таны хандалтыг асуух боломжтой болно.";
+NSMicrophoneUsageDescription = "Chromium-д хандалт олгосны дараа веб сайтууд таны хандалтыг асуух боломжтой болно.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Chromium-д хандалт олгосны дараа веб сайтууд таны хандалтыг асуух боломжтой болно.";

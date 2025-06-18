@@ -1,0 +1,10 @@
+"Chromium Shortcut" = "ផ្លូវ​កាត់ Chromium";
+CFBundleGetInfoString = "Chromium 137.0.7151.103, រក្សាសិទ្ធិគ្រប់យ៉ាងដោយផលិតករ Chromium។ រក្សាសិទ្ធិ 2025។";
+NSBluetoothAlwaysUsageDescription = "បន្ទាប់ពី Chromium មានសិទ្ធិចូលប្រើហើយ គេហទំព័រ​នឹង​អាច​ស្នើ​សុំ​សិទ្ធិ​ចូល​ប្រើពី​អ្នកបាន។";
+NSBluetoothPeripheralUsageDescription = "បន្ទាប់ពី Chromium មានសិទ្ធិចូលប្រើហើយ គេហទំព័រ​នឹង​អាច​ស្នើ​សុំ​សិទ្ធិ​ចូល​ប្រើពី​អ្នកបាន។";
+NSCameraUsageDescription = "បន្ទាប់ពី Chromium មានសិទ្ធិចូលប្រើហើយ គេហទំព័រ​នឹង​អាច​ស្នើ​សុំ​សិទ្ធិ​ចូល​ប្រើពី​អ្នកបាន។";
+NSHumanReadableCopyright = "រក្សាសិទ្ធិគ្រប់យ៉ាងដោយផលិតករ Chromium។ រក្សាសិទ្ធិ 2025។";
+NSLocalNetworkUsageDescription = "ការធ្វើបែបនេះ​នឹងអាច​ឱ្យអ្នក​ជ្រើសរើស​ពីឧបករណ៍​ដែលអាច​ប្រើបាន និង​បង្ហាញ​ខ្លឹមសារ​នៅលើ​ឧបករណ៍​ទាំងនោះ។";
+NSLocationUsageDescription = "បន្ទាប់ពី Chromium មានសិទ្ធិចូលប្រើហើយ គេហទំព័រ​នឹង​អាច​ស្នើ​សុំ​សិទ្ធិ​ចូល​ប្រើពី​អ្នកបាន។";
+NSMicrophoneUsageDescription = "បន្ទាប់ពី Chromium មានសិទ្ធិចូលប្រើហើយ គេហទំព័រ​នឹង​អាច​ស្នើ​សុំ​សិទ្ធិ​ចូល​ប្រើពី​អ្នកបាន។";
+NSWebBrowserPublicKeyCredentialUsageDescription = "បន្ទាប់ពី Chromium មានសិទ្ធិចូលប្រើហើយ គេហទំព័រ​នឹង​អាច​ស្នើ​សុំ​សិទ្ធិ​ចូល​ប្រើពី​អ្នកបាន។";

@@ -1,0 +1,10 @@
+"Chromium Shortcut" = "Chromium-snelkoppeling";
+CFBundleGetInfoString = "Chromium 137.0.7151.103, Copyright 2025 De auteurs van Chromium. Alle rechten voorbehouden.";
+NSBluetoothAlwaysUsageDescription = "Zodra Chromium toegang heeft, kunnen websites je om toegang vragen.";
+NSBluetoothPeripheralUsageDescription = "Zodra Chromium toegang heeft, kunnen websites je om toegang vragen.";
+NSCameraUsageDescription = "Zodra Chromium toegang heeft, kunnen websites je om toegang vragen.";
+NSHumanReadableCopyright = "Copyright 2025 De auteurs van Chromium. Alle rechten voorbehouden.";
+NSLocalNetworkUsageDescription = "Hiermee kun je uit beschikbare apparaten kiezen en de content erop weergeven.";
+NSLocationUsageDescription = "Zodra Chromium toegang heeft, kunnen websites je om toegang vragen.";
+NSMicrophoneUsageDescription = "Zodra Chromium toegang heeft, kunnen websites je om toegang vragen.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Zodra Chromium toegang heeft, kunnen websites je om toegang vragen.";

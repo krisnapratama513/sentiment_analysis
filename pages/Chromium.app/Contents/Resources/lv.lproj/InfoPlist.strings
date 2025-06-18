@@ -1,0 +1,10 @@
+"Chromium Shortcut" = "Chromium saīsne";
+CFBundleGetInfoString = "Chromium 137.0.7151.103, Autortiesības 2025 Chromium autori. Visas tiesības paturētas.";
+NSBluetoothAlwaysUsageDescription = "Tiklīdz pārlūkam Chromium tiks sniegta piekļuve, vietnes varēs lūgt jums piekļuvi.";
+NSBluetoothPeripheralUsageDescription = "Tiklīdz pārlūkam Chromium tiks sniegta piekļuve, vietnes varēs lūgt jums piekļuvi.";
+NSCameraUsageDescription = "Tiklīdz pārlūkam Chromium tiks sniegta piekļuve, vietnes varēs lūgt jums piekļuvi.";
+NSHumanReadableCopyright = "Autortiesības 2025 Chromium autori. Visas tiesības paturētas.";
+NSLocalNetworkUsageDescription = "Tādējādi varēsiet atlasīt kādu no pieejamām ierīcēm un parādīt tajā saturu.";
+NSLocationUsageDescription = "Tiklīdz pārlūkam Chromium tiks sniegta piekļuve, vietnes varēs lūgt jums piekļuvi.";
+NSMicrophoneUsageDescription = "Tiklīdz pārlūkam Chromium tiks sniegta piekļuve, vietnes varēs lūgt jums piekļuvi.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Tiklīdz pārlūkam Chromium tiks sniegta piekļuve, vietnes varēs lūgt jums piekļuvi.";

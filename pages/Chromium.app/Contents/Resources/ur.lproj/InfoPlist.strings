@@ -1,0 +1,10 @@
+"Chromium Shortcut" = "‏‫Chromium شارٹ کٹ";
+CFBundleGetInfoString = "Chromium 137.0.7151.103, ‏کاپی رائٹ ‎2025 The Chromium Authors۔ جملہ حقوق محفوظ۔";
+NSBluetoothAlwaysUsageDescription = "‏Chromium کو رسائی مل جانے کے بعد، ویب سائٹس آپ سے رسائی طلب کر سکیں گی۔";
+NSBluetoothPeripheralUsageDescription = "‏Chromium کو رسائی مل جانے کے بعد، ویب سائٹس آپ سے رسائی طلب کر سکیں گی۔";
+NSCameraUsageDescription = "‏Chromium کو رسائی مل جانے کے بعد، ویب سائٹس آپ سے رسائی طلب کر سکیں گی۔";
+NSHumanReadableCopyright = "‏کاپی رائٹ ‎2025 The Chromium Authors۔ جملہ حقوق محفوظ۔";
+NSLocalNetworkUsageDescription = "یہ آپ کو دستیاب آلات میں سے انتخاب کرنے اور ان پر مواد ڈسپلے کرنے کی اجازت دے گا۔";
+NSLocationUsageDescription = "‏Chromium کو رسائی مل جانے کے بعد، ویب سائٹس آپ سے رسائی طلب کر سکیں گی۔";
+NSMicrophoneUsageDescription = "‏Chromium کو رسائی مل جانے کے بعد، ویب سائٹس آپ سے رسائی طلب کر سکیں گی۔";
+NSWebBrowserPublicKeyCredentialUsageDescription = "‏Chromium کو رسائی مل جانے کے بعد، ویب سائٹس آپ سے رسائی طلب کر سکیں گی۔";

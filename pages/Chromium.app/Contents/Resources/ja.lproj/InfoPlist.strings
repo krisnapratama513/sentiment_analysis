@@ -1,0 +1,10 @@
+"Chromium Shortcut" = "Chromium のショートカット";
+CFBundleGetInfoString = "Chromium 137.0.7151.103, Copyright 2025 The Chromium Authors. All rights reserved.";
+NSBluetoothAlwaysUsageDescription = "Chromium にアクセスを許可すると、ウェブサイトからアクセスをリクエストできるようになります。";
+NSBluetoothPeripheralUsageDescription = "Chromium にアクセスを許可すると、ウェブサイトからアクセスをリクエストできるようになります。";
+NSCameraUsageDescription = "Chromium にアクセスを許可すると、ウェブサイトからアクセスをリクエストできるようになります。";
+NSHumanReadableCopyright = "Copyright 2025 The Chromium Authors. All rights reserved.";
+NSLocalNetworkUsageDescription = "これにより、利用可能なデバイスから選択してコンテンツを表示できるようになります。";
+NSLocationUsageDescription = "Chromium にアクセスを許可すると、ウェブサイトからアクセスをリクエストできるようになります。";
+NSMicrophoneUsageDescription = "Chromium にアクセスを許可すると、ウェブサイトからアクセスをリクエストできるようになります。";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Chromium にアクセスを許可すると、ウェブサイトからアクセスをリクエストできるようになります。";

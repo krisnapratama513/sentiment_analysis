@@ -1,0 +1,10 @@
+"Chromium Shortcut" = "Chromium 捷徑";
+CFBundleGetInfoString = "Chromium 137.0.7151.103, Copyright 2025 The Chromium Authors. 保留所有權利。";
+NSBluetoothAlwaysUsageDescription = "Chromium 獲得存取權後，網站便可向您要求存取權。";
+NSBluetoothPeripheralUsageDescription = "Chromium 獲得存取權後，網站便可向您要求存取權。";
+NSCameraUsageDescription = "Chromium 獲得存取權後，網站便可向您要求存取權。";
+NSHumanReadableCopyright = "Copyright 2025 The Chromium Authors. 保留所有權利。";
+NSLocalNetworkUsageDescription = "這樣你就能選取可用裝置，並在這些裝置上顯示內容。";
+NSLocationUsageDescription = "Chromium 獲得存取權後，網站便可向您要求存取權。";
+NSMicrophoneUsageDescription = "Chromium 獲得存取權後，網站便可向您要求存取權。";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Chromium 獲得存取權後，網站便可向您要求存取權。";

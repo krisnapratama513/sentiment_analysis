@@ -1,0 +1,10 @@
+"Chromium Shortcut" = "ທາງລັດ Chromium";
+CFBundleGetInfoString = "Chromium 137.0.7151.103, ລິຂະສິດ 2025 ຜູ້ຂຽນ Chromium. ສະຫງວນສິດທັງໝົດ.";
+NSBluetoothAlwaysUsageDescription = "ເມື່ອ Chromium ມີການເຂົ້າເຖິງ, ເວັບໄຊຈະສາມາດຮ້ອງຂໍການເຂົ້າເຖິງນຳທ່ານ.";
+NSBluetoothPeripheralUsageDescription = "ເມື່ອ Chromium ມີການເຂົ້າເຖິງ, ເວັບໄຊຈະສາມາດຮ້ອງຂໍການເຂົ້າເຖິງນຳທ່ານ.";
+NSCameraUsageDescription = "ເມື່ອ Chromium ມີການເຂົ້າເຖິງ, ເວັບໄຊຈະສາມາດຮ້ອງຂໍການເຂົ້າເຖິງນຳທ່ານ.";
+NSHumanReadableCopyright = "ລິຂະສິດ 2025 ຜູ້ຂຽນ Chromium. ສະຫງວນສິດທັງໝົດ.";
+NSLocalNetworkUsageDescription = "ວິທີນີ້ຈະຊ່ວຍໃຫ້ທ່ານສາມາດເລືອກຈາກອຸປະກອນທີ່ພ້ອມນຳໃຊ້ ແລະ ສະແດງເນື້ອຫາຢູ່ອຸປະກອນເຫຼົ່ານັ້ນ.";
+NSLocationUsageDescription = "ເມື່ອ Chromium ມີການເຂົ້າເຖິງ, ເວັບໄຊຈະສາມາດຮ້ອງຂໍການເຂົ້າເຖິງນຳທ່ານ.";
+NSMicrophoneUsageDescription = "ເມື່ອ Chromium ມີການເຂົ້າເຖິງ, ເວັບໄຊຈະສາມາດຮ້ອງຂໍການເຂົ້າເຖິງນຳທ່ານ.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "ເມື່ອ Chromium ມີການເຂົ້າເຖິງ, ເວັບໄຊຈະສາມາດຮ້ອງຂໍການເຂົ້າເຖິງນຳທ່ານ.";

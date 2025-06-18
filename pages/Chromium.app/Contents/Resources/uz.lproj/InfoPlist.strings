@@ -1,0 +1,10 @@
+"Chromium Shortcut" = "Chromium tezkor tugmasi";
+CFBundleGetInfoString = "Chromium 137.0.7151.103, © The Chromium Authors, 2025. Barcha huquqlar himoyalangan.";
+NSBluetoothAlwaysUsageDescription = "Chromium saytlarga ulanganda sizdan ruxsat so‘raydi.";
+NSBluetoothPeripheralUsageDescription = "Chromium saytlarga ulanganda sizdan ruxsat so‘raydi.";
+NSCameraUsageDescription = "Chromium saytlarga ulanganda sizdan ruxsat so‘raydi.";
+NSHumanReadableCopyright = "© The Chromium Authors, 2025. Barcha huquqlar himoyalangan.";
+NSLocalNetworkUsageDescription = "Bu mavjud qurilmalardan birini tanlash va undagi kontentni chiqarish imkonini beradi.";
+NSLocationUsageDescription = "Chromium saytlarga ulanganda sizdan ruxsat so‘raydi.";
+NSMicrophoneUsageDescription = "Chromium saytlarga ulanganda sizdan ruxsat so‘raydi.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Chromium saytlarga ulanganda sizdan ruxsat so‘raydi.";

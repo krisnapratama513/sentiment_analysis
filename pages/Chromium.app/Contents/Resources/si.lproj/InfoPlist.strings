@@ -1,0 +1,10 @@
+"Chromium Shortcut" = "Chromium කෙටිමඟ";
+CFBundleGetInfoString = "Chromium 137.0.7151.103, හිමිකම 2025 Chromium කතෲවරුන්. සියළුම හිමිකම් ඇවිරිනි.";
+NSBluetoothAlwaysUsageDescription = "Chromium හට ප්‍රවේශය ඇති විට, වෙබ් අඩවි හට ඔබගෙන් ප්‍රවේශය සඳහා ඉල්ලීමට හැකිය.";
+NSBluetoothPeripheralUsageDescription = "Chromium හට ප්‍රවේශය ඇති විට, වෙබ් අඩවි හට ඔබගෙන් ප්‍රවේශය සඳහා ඉල්ලීමට හැකිය.";
+NSCameraUsageDescription = "Chromium හට ප්‍රවේශය ඇති විට, වෙබ් අඩවි හට ඔබගෙන් ප්‍රවේශය සඳහා ඉල්ලීමට හැකිය.";
+NSHumanReadableCopyright = "හිමිකම 2025 Chromium කතෲවරුන්. සියළුම හිමිකම් ඇවිරිනි.";
+NSLocalNetworkUsageDescription = "මෙය ඔබට පවතින උපාංගවලින් තේරීමට සහ ඒවායේ අන්තර්ගතය පෙන්වීමට ඉඩ දෙනු ඇත.";
+NSLocationUsageDescription = "Chromium හට ප්‍රවේශය ඇති විට, වෙබ් අඩවි හට ඔබගෙන් ප්‍රවේශය සඳහා ඉල්ලීමට හැකිය.";
+NSMicrophoneUsageDescription = "Chromium හට ප්‍රවේශය ඇති විට, වෙබ් අඩවි හට ඔබගෙන් ප්‍රවේශය සඳහා ඉල්ලීමට හැකිය.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Chromium හට ප්‍රවේශය ඇති විට, වෙබ් අඩවි හට ඔබගෙන් ප්‍රවේශය සඳහා ඉල්ලීමට හැකිය.";

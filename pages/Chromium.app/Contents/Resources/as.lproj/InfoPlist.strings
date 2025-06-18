@@ -1,0 +1,10 @@
+"Chromium Shortcut" = "Chromiumৰ শ্বৰ্টকাট";
+CFBundleGetInfoString = "Chromium 137.0.7151.103, স্বত্ত্বাধিকাৰ 2025 The Chromium Authors. সর্বস্বত্ব সংৰক্ষিত।";
+NSBluetoothAlwaysUsageDescription = "Chromiumএ এক্সেছ পোৱাৰ পাছতেই ৱেবছাইটসমূহে আপোনাক এক্সেছৰ বাবে অনুমতি বিচাৰিব পাৰিব।";
+NSBluetoothPeripheralUsageDescription = "Chromiumএ এক্সেছ পোৱাৰ পাছতেই ৱেবছাইটসমূহে আপোনাক এক্সেছৰ বাবে অনুমতি বিচাৰিব পাৰিব।";
+NSCameraUsageDescription = "Chromiumএ এক্সেছ পোৱাৰ পাছতেই ৱেবছাইটসমূহে আপোনাক এক্সেছৰ বাবে অনুমতি বিচাৰিব পাৰিব।";
+NSHumanReadableCopyright = "স্বত্ত্বাধিকাৰ 2025 The Chromium Authors. সর্বস্বত্ব সংৰক্ষিত।";
+NSLocalNetworkUsageDescription = "এইটোৱে আপোনাক উপলব্ধ ডিভাইচসমূহৰ পৰা বাছনি কৰিবলৈ আৰু সেইসমূহত সমল প্ৰদৰ্শন কৰিবলৈ দিব।";
+NSLocationUsageDescription = "Chromiumএ এক্সেছ পোৱাৰ পাছতেই ৱেবছাইটসমূহে আপোনাক এক্সেছৰ বাবে অনুমতি বিচাৰিব পাৰিব।";
+NSMicrophoneUsageDescription = "Chromiumএ এক্সেছ পোৱাৰ পাছতেই ৱেবছাইটসমূহে আপোনাক এক্সেছৰ বাবে অনুমতি বিচাৰিব পাৰিব।";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Chromiumএ এক্সেছ পোৱাৰ পাছতেই ৱেবছাইটসমূহে আপোনাক এক্সেছৰ বাবে অনুমতি বিচাৰিব পাৰিব।";

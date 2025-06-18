@@ -1,0 +1,10 @@
+"Chromium Shortcut" = "Chromium-ի դյուրանցում";
+CFBundleGetInfoString = "Chromium 137.0.7151.103, © 2025 The Chromium Authors: Բոլոր իրավունքները պահպանված են:";
+NSBluetoothAlwaysUsageDescription = "Երբ Chromium-ը հասանելիություն ստանա, կայքերը կկարողանան ձեզնից հասանելիություն խնդրել։";
+NSBluetoothPeripheralUsageDescription = "Երբ Chromium-ը հասանելիություն ստանա, կայքերը կկարողանան ձեզնից հասանելիություն խնդրել։";
+NSCameraUsageDescription = "Երբ Chromium-ը հասանելիություն ստանա, կայքերը կկարողանան ձեզնից հասանելիություն խնդրել։";
+NSHumanReadableCopyright = "© 2025 The Chromium Authors: Բոլոր իրավունքները պահպանված են:";
+NSLocalNetworkUsageDescription = "Սա ձեզ թույլ կտա ընտություն կատարել հասանելի սարքերից և բովանդակություն ցուցադրել այդ սարքերում։";
+NSLocationUsageDescription = "Երբ Chromium-ը հասանելիություն ստանա, կայքերը կկարողանան ձեզնից հասանելիություն խնդրել։";
+NSMicrophoneUsageDescription = "Երբ Chromium-ը հասանելիություն ստանա, կայքերը կկարողանան ձեզնից հասանելիություն խնդրել։";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Երբ Chromium-ը հասանելիություն ստանա, կայքերը կկարողանան ձեզնից հասանելիություն խնդրել։";

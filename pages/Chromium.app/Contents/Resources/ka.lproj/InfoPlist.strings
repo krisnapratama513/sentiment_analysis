@@ -1,0 +1,10 @@
+"Chromium Shortcut" = "Chromium-ის მალსახმობი";
+CFBundleGetInfoString = "Chromium 137.0.7151.103, Copyright 2025 The Chromium Authors. ყველა უფლება დაცულია.";
+NSBluetoothAlwaysUsageDescription = "Chromium-ისთვის წვდომის მინიჭების შემდეგ ცალკეული ვებსაიტები შეძლებს თქვენგან წვდომის მოთხოვნას.";
+NSBluetoothPeripheralUsageDescription = "Chromium-ისთვის წვდომის მინიჭების შემდეგ ცალკეული ვებსაიტები შეძლებს თქვენგან წვდომის მოთხოვნას.";
+NSCameraUsageDescription = "Chromium-ისთვის წვდომის მინიჭების შემდეგ ცალკეული ვებსაიტები შეძლებს თქვენგან წვდომის მოთხოვნას.";
+NSHumanReadableCopyright = "Copyright 2025 The Chromium Authors. ყველა უფლება დაცულია.";
+NSLocalNetworkUsageDescription = "ამის საშუალებით თქვენ აირჩევთ ხელმისაწვდომი მოწყობილობებიდან და მათზე კონტენტს აჩვენებთ.";
+NSLocationUsageDescription = "Chromium-ისთვის წვდომის მინიჭების შემდეგ ცალკეული ვებსაიტები შეძლებს თქვენგან წვდომის მოთხოვნას.";
+NSMicrophoneUsageDescription = "Chromium-ისთვის წვდომის მინიჭების შემდეგ ცალკეული ვებსაიტები შეძლებს თქვენგან წვდომის მოთხოვნას.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Chromium-ისთვის წვდომის მინიჭების შემდეგ ცალკეული ვებსაიტები შეძლებს თქვენგან წვდომის მოთხოვნას.";

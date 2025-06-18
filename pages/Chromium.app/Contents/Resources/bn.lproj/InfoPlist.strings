@@ -1,0 +1,10 @@
+"Chromium Shortcut" = "Chromium-এর শর্টকার্ট";
+CFBundleGetInfoString = "Chromium 137.0.7151.103, কপিরাইট 2025 Chromium রচয়িতা৷ সর্বস্বত্ত্ব সংরক্ষিত৷";
+NSBluetoothAlwaysUsageDescription = "Chromium অ্যাক্সেস পেলেই, ওয়েবসাইটগুলি আপনাকে অ্যাক্সেসের অনুরোধ করতে পারবে।";
+NSBluetoothPeripheralUsageDescription = "Chromium অ্যাক্সেস পেলেই, ওয়েবসাইটগুলি আপনাকে অ্যাক্সেসের অনুরোধ করতে পারবে।";
+NSCameraUsageDescription = "Chromium অ্যাক্সেস পেলেই, ওয়েবসাইটগুলি আপনাকে অ্যাক্সেসের অনুরোধ করতে পারবে।";
+NSHumanReadableCopyright = "কপিরাইট 2025 Chromium রচয়িতা৷ সর্বস্বত্ত্ব সংরক্ষিত৷";
+NSLocalNetworkUsageDescription = "এর ফলে আপনি উপলভ্য় ডিভাইসগুলি থেকে বেছে নিতে পারবেন এবং সেগুলিতে কন্টেন্ট দেখাতে পারবেন।";
+NSLocationUsageDescription = "Chromium অ্যাক্সেস পেলেই, ওয়েবসাইটগুলি আপনাকে অ্যাক্সেসের অনুরোধ করতে পারবে।";
+NSMicrophoneUsageDescription = "Chromium অ্যাক্সেস পেলেই, ওয়েবসাইটগুলি আপনাকে অ্যাক্সেসের অনুরোধ করতে পারবে।";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Chromium অ্যাক্সেস পেলেই, ওয়েবসাইটগুলি আপনাকে অ্যাক্সেসের অনুরোধ করতে পারবে।";

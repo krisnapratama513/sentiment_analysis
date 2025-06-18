@@ -1,0 +1,10 @@
+"Chromium Shortcut" = "Llwybr Byr Chromium";
+CFBundleGetInfoString = "Chromium 137.0.7151.103, Hawlfraint 2025 Awduron Chromium. Cedwir Pob Hawl.";
+NSBluetoothAlwaysUsageDescription = "Unwaith y bydd gan Chromium fynediad, bydd gwefannau yn gallu gofyn i chi am fynediad.";
+NSBluetoothPeripheralUsageDescription = "Unwaith y bydd gan Chromium fynediad, bydd gwefannau yn gallu gofyn i chi am fynediad.";
+NSCameraUsageDescription = "Unwaith y bydd gan Chromium fynediad, bydd gwefannau yn gallu gofyn i chi am fynediad.";
+NSHumanReadableCopyright = "Hawlfraint 2025 Awduron Chromium. Cedwir Pob Hawl.";
+NSLocalNetworkUsageDescription = "Bydd hyn yn caniatáu i chi ddewis o'r dyfeisiau sydd ar gael ac arddangos cynnwys arnynt.";
+NSLocationUsageDescription = "Unwaith y bydd gan Chromium fynediad, bydd gwefannau yn gallu gofyn i chi am fynediad.";
+NSMicrophoneUsageDescription = "Unwaith y bydd gan Chromium fynediad, bydd gwefannau yn gallu gofyn i chi am fynediad.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Unwaith y bydd gan Chromium fynediad, bydd gwefannau yn gallu gofyn i chi am fynediad.";

@@ -1,0 +1,10 @@
+"Chromium Shortcut" = "Chromium ਦਾ ਸ਼ਾਰਟਕੱਟ";
+CFBundleGetInfoString = "Chromium 137.0.7151.103, ਕਾਪੀਰਾਈਟ 2025 The Chromium Authors. ਸਾਰੇ ਹੱਕ ਰਾਖਵੇਂ ਹਨ।";
+NSBluetoothAlwaysUsageDescription = "Chromium ਤੱਕ ਪਹੁੰਚ ਹੋਣ 'ਤੇ, ਵੈੱਬਸਾਈਟਾਂ ਤੁਹਾਨੂੰ ਪਹੁੰਚ ਲਈ ਪੁੱਛ ਸਕਣਗੀਆਂ।";
+NSBluetoothPeripheralUsageDescription = "Chromium ਤੱਕ ਪਹੁੰਚ ਹੋਣ 'ਤੇ, ਵੈੱਬਸਾਈਟਾਂ ਤੁਹਾਨੂੰ ਪਹੁੰਚ ਲਈ ਪੁੱਛ ਸਕਣਗੀਆਂ।";
+NSCameraUsageDescription = "Chromium ਤੱਕ ਪਹੁੰਚ ਹੋਣ 'ਤੇ, ਵੈੱਬਸਾਈਟਾਂ ਤੁਹਾਨੂੰ ਪਹੁੰਚ ਲਈ ਪੁੱਛ ਸਕਣਗੀਆਂ।";
+NSHumanReadableCopyright = "ਕਾਪੀਰਾਈਟ 2025 The Chromium Authors. ਸਾਰੇ ਹੱਕ ਰਾਖਵੇਂ ਹਨ।";
+NSLocalNetworkUsageDescription = "ਇਹ ਤੁਹਾਨੂੰ ਉਪਲਬਧ ਡੀਵਾਈਸਾਂ ਵਿੱਚੋਂ ਚੁਣਨ ਅਤੇ ਉਨ੍ਹਾਂ 'ਤੇ ਸਮੱਗਰੀ ਦਿਖਾਉਣ ਦੀ ਆਗਿਆ ਦੇਵੇਗਾ।";
+NSLocationUsageDescription = "Chromium ਤੱਕ ਪਹੁੰਚ ਹੋਣ 'ਤੇ, ਵੈੱਬਸਾਈਟਾਂ ਤੁਹਾਨੂੰ ਪਹੁੰਚ ਲਈ ਪੁੱਛ ਸਕਣਗੀਆਂ।";
+NSMicrophoneUsageDescription = "Chromium ਤੱਕ ਪਹੁੰਚ ਹੋਣ 'ਤੇ, ਵੈੱਬਸਾਈਟਾਂ ਤੁਹਾਨੂੰ ਪਹੁੰਚ ਲਈ ਪੁੱਛ ਸਕਣਗੀਆਂ।";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Chromium ਤੱਕ ਪਹੁੰਚ ਹੋਣ 'ਤੇ, ਵੈੱਬਸਾਈਟਾਂ ਤੁਹਾਨੂੰ ਪਹੁੰਚ ਲਈ ਪੁੱਛ ਸਕਣਗੀਆਂ।";

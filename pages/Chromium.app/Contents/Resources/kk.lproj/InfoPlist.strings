@@ -1,0 +1,10 @@
+"Chromium Shortcut" = "Chromium пернелер тіркесімі";
+CFBundleGetInfoString = "Chromium 137.0.7151.103, Copyright 2025 The Chromium Authors. Барлық құқықтар қорғалған.";
+NSBluetoothAlwaysUsageDescription = "Chromium браузерінің кіру рұқсаты болса, веб-сайттар сізден кіру рұқсатын сұрайды.";
+NSBluetoothPeripheralUsageDescription = "Chromium браузерінің кіру рұқсаты болса, веб-сайттар сізден кіру рұқсатын сұрайды.";
+NSCameraUsageDescription = "Chromium браузерінің кіру рұқсаты болса, веб-сайттар сізден кіру рұқсатын сұрайды.";
+NSHumanReadableCopyright = "Copyright 2025 The Chromium Authors. Барлық құқықтар қорғалған.";
+NSLocalNetworkUsageDescription = "Бұл жағдайда қолжетімді құрылғылардың арасынан таңдап, оларда контент көрсетуге болады.";
+NSLocationUsageDescription = "Chromium браузерінің кіру рұқсаты болса, веб-сайттар сізден кіру рұқсатын сұрайды.";
+NSMicrophoneUsageDescription = "Chromium браузерінің кіру рұқсаты болса, веб-сайттар сізден кіру рұқсатын сұрайды.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Chromium браузерінің кіру рұқсаты болса, веб-сайттар сізден кіру рұқсатын сұрайды.";

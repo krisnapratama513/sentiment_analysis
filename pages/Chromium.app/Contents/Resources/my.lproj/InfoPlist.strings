@@ -1,0 +1,10 @@
+"Chromium Shortcut" = "Chromium ဖြတ်လမ်းလင့်ခ်";
+CFBundleGetInfoString = "Chromium 137.0.7151.103, မူပိုင်ခွင့် 2025 The Chromium ပြုစုသူများ။ မူပိုင်ခွင့်များ အားလုံးကို ချုပ်ထိန်းထားသည်။";
+NSBluetoothAlwaysUsageDescription = "Chromium အသုံးပြုခွင့်ရှိသည်နှင့် ဝဘ်ဆိုက်များသည် သင့်ထံခွင့်ပြုချက်တောင်းပါမည်။";
+NSBluetoothPeripheralUsageDescription = "Chromium အသုံးပြုခွင့်ရှိသည်နှင့် ဝဘ်ဆိုက်များသည် သင့်ထံခွင့်ပြုချက်တောင်းပါမည်။";
+NSCameraUsageDescription = "Chromium အသုံးပြုခွင့်ရှိသည်နှင့် ဝဘ်ဆိုက်များသည် သင့်ထံခွင့်ပြုချက်တောင်းပါမည်။";
+NSHumanReadableCopyright = "မူပိုင်ခွင့် 2025 The Chromium ပြုစုသူများ။ မူပိုင်ခွင့်များ အားလုံးကို ချုပ်ထိန်းထားသည်။";
+NSLocalNetworkUsageDescription = "၎င်းသည် ရနိုင်သောစက်များမှ ရွေးပြီး ၎င်းတို့တွင် အကြောင်းအရာပြရန် သင့်အားခွင့်ပြုမည်။";
+NSLocationUsageDescription = "Chromium အသုံးပြုခွင့်ရှိသည်နှင့် ဝဘ်ဆိုက်များသည် သင့်ထံခွင့်ပြုချက်တောင်းပါမည်။";
+NSMicrophoneUsageDescription = "Chromium အသုံးပြုခွင့်ရှိသည်နှင့် ဝဘ်ဆိုက်များသည် သင့်ထံခွင့်ပြုချက်တောင်းပါမည်။";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Chromium အသုံးပြုခွင့်ရှိသည်နှင့် ဝဘ်ဆိုက်များသည် သင့်ထံခွင့်ပြုချက်တောင်းပါမည်။";

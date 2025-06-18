@@ -1,0 +1,10 @@
+"Chromium Shortcut" = "Chromium qısayolu";
+CFBundleGetInfoString = "Chromium 137.0.7151.103, Müəlliflik Hüququ 2025 Chromium Müəllifləri. Bütün hüquqlar qorunur.";
+NSBluetoothAlwaysUsageDescription = "Chromium'un giriş imkanı olduqda veb saytlar giriş üçün Sizdən icazə istəyəcək.";
+NSBluetoothPeripheralUsageDescription = "Chromium'un giriş imkanı olduqda veb saytlar giriş üçün Sizdən icazə istəyəcək.";
+NSCameraUsageDescription = "Chromium'un giriş imkanı olduqda veb saytlar giriş üçün Sizdən icazə istəyəcək.";
+NSHumanReadableCopyright = "Müəlliflik Hüququ 2025 Chromium Müəllifləri. Bütün hüquqlar qorunur.";
+NSLocalNetworkUsageDescription = "Bu, əlçatan cihazlardan seçim etmək və oradakı kontenti göstərmək imkanı verəcək.";
+NSLocationUsageDescription = "Chromium'un giriş imkanı olduqda veb saytlar giriş üçün Sizdən icazə istəyəcək.";
+NSMicrophoneUsageDescription = "Chromium'un giriş imkanı olduqda veb saytlar giriş üçün Sizdən icazə istəyəcək.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Chromium'un giriş imkanı olduqda veb saytlar giriş üçün Sizdən icazə istəyəcək.";

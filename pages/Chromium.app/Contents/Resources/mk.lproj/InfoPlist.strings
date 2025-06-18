@@ -1,0 +1,10 @@
+"Chromium Shortcut" = "Кратенка за Chromium";
+CFBundleGetInfoString = "Chromium 137.0.7151.103, Авторски права 2025 на Авторите на Chromium. Сите права се задржани.";
+NSBluetoothAlwaysUsageDescription = "Ако Chromium има пристап, тогаш и веб-сајтовите ќе може да ви бараат пристап.";
+NSBluetoothPeripheralUsageDescription = "Ако Chromium има пристап, тогаш и веб-сајтовите ќе може да ви бараат пристап.";
+NSCameraUsageDescription = "Ако Chromium има пристап, тогаш и веб-сајтовите ќе може да ви бараат пристап.";
+NSHumanReadableCopyright = "Авторски права 2025 на Авторите на Chromium. Сите права се задржани.";
+NSLocalNetworkUsageDescription = "Ова ќе ви овозможи да изберете некој од достапните уреди и да прикажувате содржини на нив.";
+NSLocationUsageDescription = "Ако Chromium има пристап, тогаш и веб-сајтовите ќе може да ви бараат пристап.";
+NSMicrophoneUsageDescription = "Ако Chromium има пристап, тогаш и веб-сајтовите ќе може да ви бараат пристап.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Ако Chromium има пристап, тогаш и веб-сајтовите ќе може да ви бараат пристап.";

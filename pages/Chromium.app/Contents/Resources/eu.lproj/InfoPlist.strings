@@ -1,0 +1,10 @@
+"Chromium Shortcut" = "Chromium-en lasterbidea";
+CFBundleGetInfoString = "Chromium 137.0.7151.103, Copyright 2025 Chromium-en egileak. Eskubide guztiak erreserbatuta.";
+NSBluetoothAlwaysUsageDescription = "Chromium-ek sarbidea duenean, webguneek sarbidea eskatuko dizute.";
+NSBluetoothPeripheralUsageDescription = "Chromium-ek sarbidea duenean, webguneek sarbidea eskatuko dizute.";
+NSCameraUsageDescription = "Chromium-ek sarbidea duenean, webguneek sarbidea eskatuko dizute.";
+NSHumanReadableCopyright = "Copyright 2025 Chromium-en egileak. Eskubide guztiak erreserbatuta.";
+NSLocalNetworkUsageDescription = "Erabilgarri dauden gailuen artean hautatu ahal izango duzu, eta haietan edukia bistaratu.";
+NSLocationUsageDescription = "Chromium-ek sarbidea duenean, webguneek sarbidea eskatuko dizute.";
+NSMicrophoneUsageDescription = "Chromium-ek sarbidea duenean, webguneek sarbidea eskatuko dizute.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Chromium-ek sarbidea duenean, webguneek sarbidea eskatuko dizute.";

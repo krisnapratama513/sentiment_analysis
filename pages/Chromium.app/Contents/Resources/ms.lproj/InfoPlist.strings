@@ -1,0 +1,10 @@
+"Chromium Shortcut" = "Pintasan Chromium";
+CFBundleGetInfoString = "Chromium 137.0.7151.103, Hak Cipta 2025 Pengarang Chromium. Hak cipta terpelihara.";
+NSBluetoothAlwaysUsageDescription = "Sebaik sahaja Chromium mendapat akses, laman web akan dapat meminta akses daripada anda.";
+NSBluetoothPeripheralUsageDescription = "Sebaik sahaja Chromium mendapat akses, laman web akan dapat meminta akses daripada anda.";
+NSCameraUsageDescription = "Sebaik sahaja Chromium mendapat akses, laman web akan dapat meminta akses daripada anda.";
+NSHumanReadableCopyright = "Hak Cipta 2025 Pengarang Chromium. Hak cipta terpelihara.";
+NSLocalNetworkUsageDescription = "Tindakan ini membenarkan anda memilih peranti yang sedia ada dan memaparkan kandungan pada peranti tersebut.";
+NSLocationUsageDescription = "Sebaik sahaja Chromium mendapat akses, laman web akan dapat meminta akses daripada anda.";
+NSMicrophoneUsageDescription = "Sebaik sahaja Chromium mendapat akses, laman web akan dapat meminta akses daripada anda.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Sebaik sahaja Chromium mendapat akses, laman web akan dapat meminta akses daripada anda.";

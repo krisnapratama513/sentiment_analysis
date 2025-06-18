@@ -1,0 +1,10 @@
+"Chromium Shortcut" = "Isinqamuleli se-Chromium";
+CFBundleGetInfoString = "Chromium 137.0.7151.103, Copyright 2025 Ababhali be-Chromium. Wonke amalungelo agciniwe.";
+NSBluetoothAlwaysUsageDescription = "Uma i-Chromium inokufinyelela, amawebhusayithi azokwazi ukukucela ukufinyelela.";
+NSBluetoothPeripheralUsageDescription = "Uma i-Chromium inokufinyelela, amawebhusayithi azokwazi ukukucela ukufinyelela.";
+NSCameraUsageDescription = "Uma i-Chromium inokufinyelela, amawebhusayithi azokwazi ukukucela ukufinyelela.";
+NSHumanReadableCopyright = "Copyright 2025 Ababhali be-Chromium. Wonke amalungelo agciniwe.";
+NSLocalNetworkUsageDescription = "Lokhu kuzokuvumela ukuthi ukhethe emadivayisini atholakalayo futhi ubonise okuqukethwe kuwo.";
+NSLocationUsageDescription = "Uma i-Chromium inokufinyelela, amawebhusayithi azokwazi ukukucela ukufinyelela.";
+NSMicrophoneUsageDescription = "Uma i-Chromium inokufinyelela, amawebhusayithi azokwazi ukukucela ukufinyelela.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Uma i-Chromium inokufinyelela, amawebhusayithi azokwazi ukukucela ukufinyelela.";

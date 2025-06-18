@@ -1,0 +1,10 @@
+"Chromium Shortcut" = "Chromiumi otsetee";
+CFBundleGetInfoString = "Chromium 137.0.7151.103, Autoriõigus 2025 The Chromium Authors. Kõik õigused on kaitstud.";
+NSBluetoothAlwaysUsageDescription = "Kui annate Chromiumile juurdepääsu, saavad veebisaidid küsida teilt juurdepääsuluba.";
+NSBluetoothPeripheralUsageDescription = "Kui annate Chromiumile juurdepääsu, saavad veebisaidid küsida teilt juurdepääsuluba.";
+NSCameraUsageDescription = "Kui annate Chromiumile juurdepääsu, saavad veebisaidid küsida teilt juurdepääsuluba.";
+NSHumanReadableCopyright = "Autoriõigus 2025 The Chromium Authors. Kõik õigused on kaitstud.";
+NSLocalNetworkUsageDescription = "See võimaldab teil valida saadaolevate seadmete hulgast ja kuvada neis sisu.";
+NSLocationUsageDescription = "Kui annate Chromiumile juurdepääsu, saavad veebisaidid küsida teilt juurdepääsuluba.";
+NSMicrophoneUsageDescription = "Kui annate Chromiumile juurdepääsu, saavad veebisaidid küsida teilt juurdepääsuluba.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Kui annate Chromiumile juurdepääsu, saavad veebisaidid küsida teilt juurdepääsuluba.";
